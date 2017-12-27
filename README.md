@@ -10,5 +10,5 @@ In Japan, we are working on RDFization of biomedical databases in the [MED2RDF](
 
 ### Meeting agenda
 
-Available on the [RDF summit 3 Wiki page](https://github.com/dbcls/rdfsummit2/wiki).
+Available on the [RDF summit 3 Wiki page](https://github.com/dbcls/rdfsummit3/wiki).
 
